@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jan Reinnen Calapao</h1>
 <h3 align="center">In this repository, you'll find a collection of activities designed to reinforce the concepts covered in CSEL-302</h3>
 
-- <a href="Sales_Data_Analysis/README.md">Sales Data Analysis</a>
+- <a href="Sales_Data_Analysis/Sales_Data_Analysis.jpynb">Sales Data Analysis</a>
 
 
 - [Inventory Records (Activity with Partner)](https://colab.research.google.com/drive/1zgo-kjXkX-6T1r3GvG1FFFzaRWEe0BCP)
