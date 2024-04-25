@@ -8,7 +8,7 @@ You will find compiled activities from the subject CSEL-302 in this repository.<
 
 - [Sales Data Analysis](https://colab.research.google.com/drive/1a0HRPIsm0an88pZHA3HjymED64aSrXQ9)
 
-- [Activity 1](https://colab.research.google.com/drive/1kcwL7bjrvEJv1yO5ovNqQb1q0UF1y80Z)
+- [Activity 1](https://colab.research.google.com/drive/1FMQqYHuSreGNIv0NGRVxmLkR_1kEO4Iv)
 
 - [Student Grades Dataset](https://colab.research.google.com/drive/1YBbEOU0IeAurEwqEwlWEs9IhGChY8QfQ)
 
